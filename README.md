@@ -21,7 +21,7 @@ it will calculate the coordinates of the portal in the nether or the overworld.
 
 <br>
 
-_Where is the file?_ [Click Here](<[https://](https://github.com/spectrasonic117/Redstonium-Portal-Calc/releases/tag/release)>)
+_Where is the file?_ [Click Here](https://github.com/spectrasonic117/Redstonium-Portal-Calc/releases/tag/release)
 
 ## Social Media
 
