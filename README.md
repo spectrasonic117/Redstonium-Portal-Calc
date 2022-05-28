@@ -1,7 +1,11 @@
 <img src=./assets/nether2_full.png width=200/><br>
 
-![CPP Project](https://img.shields.io/static/v1?style=flat-square&logo=cplusplus&label=C%2B%2B&message=Project&color=00599C)
-<svg width="131" height="20" role="img" aria-label="Redstonium: Tools"><title>Redstonium: Tools</title><g shape-rendering="crispEdges"><rect width="92" height="20" fill="#555"/><rect x="92" width="39" height="20" fill="#cf0234"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><image x="5" y="3" width="14" height="14" xlink:href="./assets/redstonium_icon.svg"/><text x="555" y="140" transform="scale(.1)" fill="#fff" textLength="650">Redstonium</text><text x="1105" y="140" transform="scale(.1)" fill="#fff" textLength="290">Tools</text></g></svg>
+![CPP Project](https://img.shields.io/static/v1?style=for-the-badge&logo=cplusplus&label=C%2B%2B&message=Project&color=00599C)
+![Redstonium Tools](https://img.shields.io/static/v1?style=for-the-badge&label=Redstonium&message=Tools&color=cf0234)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Discord](https://img.shields.io/discord/734219577109512232?color=7289DA&label=Redstonium%20Quantum&logo=discord&logoColor=fff&style=for-the-badge&url=https://discord.gg/6v8C7X2Ekc)
 
 <br>
 <br>
