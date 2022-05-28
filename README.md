@@ -19,6 +19,10 @@ it will calculate the coordinates of the portal in the nether or the overworld.
 
 > **Note:** There is a bug when you don't choose a number, it will fixed in the next update, I hope.
 
+<br>
+
+_Where is the file?_ [Click Here](<[https://](https://github.com/spectrasonic117/Redstonium-Portal-Calc/releases/tag/release)>)
+
 ## Social Media
 
 - [Twitter](https://twitter.com/spectrasonic117)
